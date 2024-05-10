@@ -7,7 +7,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+## Algorithm :
+```
 1.Import pandas for data manipulation, scikit-learn for machine learning operations, and any 
   other necessary libraries.
 2. Use pandas to read the CSV file containing your dataset (Employee.csv) and store it in a 
@@ -21,6 +22,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 7. Predict the target variable for the test set using the predict() method.
 8. Evaluate the model's performance using appropriate metrics, such as accuracy score.
 9. Pass the input data to the predict() method of the trained model to obtain predictions.
+```
 ## Program:
 ```
 /*
