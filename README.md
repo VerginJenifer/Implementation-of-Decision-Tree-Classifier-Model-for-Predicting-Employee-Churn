@@ -55,9 +55,11 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![322723305-1a04501e-0dc7-48c8-a039-813c6fa3d57f](https://github.com/VerginJenifer/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/136251012/b230d0c3-771d-46c7-9958-ef0c791c8f4e)
-![322723395-051bd4df-f227-498f-abde-5ed15c53c42b](https://github.com/VerginJenifer/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/136251012/0964e4b2-df64-4f52-ad2b-32b987b0dbce)
-![322723506-a0134c78-dc93-4a3e-9597-e40a808eac00](https://github.com/VerginJenifer/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/136251012/30cc278b-ce11-495f-9431-38f60d2a4efb)
+![322723305-1a04501e-0dc7-48c8-a039-813c6fa3d57f](https://github.com/VerginJenifer/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/136251012/256bfcec-984e-477d-a12d-3c577d3d0533)
+![322723395-051bd4df-f227-498f-abde-5ed15c53c42b](https://github.com/VerginJenifer/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/136251012/64308098-0912-40da-985b-eb16714cf588)
+![322723462-e3502c22-e584-4280-8cb5-86a92d4ce147](https://github.com/VerginJenifer/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/136251012/4883a85a-35aa-4239-b499-4c89ba69f32a)
+![322723506-a0134c78-dc93-4a3e-9597-e40a808eac00](https://github.com/VerginJenifer/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/136251012/dfbae885-7b86-466d-97b7-520fc251e812)
+
 
 
 ## Result:
